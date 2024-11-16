@@ -40,7 +40,8 @@ This report can be used to:
 - Provide insights for businesses looking to enter or grow in the food delivery industry.
 
 # Analysis and Insights: Customer Survey Dashboard on Food Delivery Insights
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3c8a033c-03c4-4625-bea2-1412a2856743)
+
 
 The **Customer Survey Dashboard: Food Delivery Insights** provides valuable insights into customer behavior, preferences, and pain points regarding food delivery services. Below is a detailed breakdown of the insights and their implications for business decisions:
 
