@@ -2,7 +2,7 @@
 # Market Research Report: Customer Preferences in the Food Delivery Service Industry
 
 ## Overview
-This report provides an in-depth analysis of customer preferences, behaviors, and pain points in the food delivery service industry, with a specific focus on the Nigerian market. It aims to uncover key insights and propose actionable recommendations to improve service quality, customer satisfaction, and platform adoption.
+This report provides an in-depth analysis of customer preferences, behaviors, and pain points in the food delivery service industry, with a specific focus on the Nigerian market. It aims to uncover key insights and propose actionable recommendations to improve service quality, customer satisfaction, and platform adoption
 
 ## Key Features
 - **Industry Context**: A detailed overview of the global and Nigerian food delivery markets.
